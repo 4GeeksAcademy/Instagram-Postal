@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+.container-post1{
+
+    width: 500px;
+    background-color: white;
+    margin: 0 auto;
+}
+span{
+    color: gray
+}
+img{
+    width: 100%;
+    
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
